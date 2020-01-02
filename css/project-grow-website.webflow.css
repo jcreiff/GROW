@@ -210,7 +210,7 @@ blockquote {
   padding-top: 0px;
   padding-bottom: 0px;
   background-image: url('../images/HomePage_resilience-2.jpg');
-  background-position: 0% 0%;
+  background-position: center;
   background-size: cover;
 }
 
@@ -4259,19 +4259,19 @@ blockquote {
 
 .slide-2 {
   background-image: url('../images/HomePage_Character.jpg');
-  background-position: 0% 0%;
+  background-position: center;
   background-size: cover;
 }
 
 .slide-3 {
   background-image: url('../images/HomePage_Transformation.jpg');
-  background-position: 0% 0%;
+  background-position: center;
   background-size: cover;
 }
 
 .slide-4 {
   background-image: url('../images/HomePage_meaning-2.jpg');
-  background-position: 0% 0%;
+  background-position: center;
   background-size: cover;
   background-repeat: repeat;
 }
@@ -5431,7 +5431,7 @@ blockquote {
 
 .slide-8 {
   background-image: url('../images/HomePage_belong.jpg');
-  background-position: 0% 0%;
+  background-position: center;
   background-size: cover;
 }
 
