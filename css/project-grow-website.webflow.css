@@ -1267,6 +1267,15 @@ blockquote {
   background-attachment: scroll;
   font-family: Oswald, sans-serif;
 }
+.hero-section.resources-hero {
+  margin-top: 90px;
+  padding-bottom: 120px;
+  background-image: url('../images/IMG_5488.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-attachment: scroll;
+  font-family: Oswald, sans-serif;
+}
 
 .hero-section.faq-hero {
   background-image: url('../images/IMG_3794-2.jpg'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
@@ -7404,6 +7413,11 @@ blockquote {
   .hero-section.get-involved-hero {
     background-image: url('../images/get_involved_image.png'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
     background-image: url('../images/get_involved_image.png'), linear-gradient(180deg, transparent, transparent);
+    background-position: 50% 50%, 0px 0px;
+  }
+  .hero-section.resources-hero {
+    background-image: url('../images/IMG_5488.jpg'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+    background-image: url('../images/IMG_5488.jpg'), linear-gradient(180deg, transparent, transparent);
     background-position: 50% 50%, 0px 0px;
   }
   .left-hero-content {
