@@ -6127,6 +6127,15 @@ label.registration {
   margin-bottom: 10px;
   border: solid 1px black;
 }
+
+.buffer {
+  margin-top: 20px;
+}
+
+.buffer-bottom {
+  margin-bottom: 100px;
+}
+
 @media (max-width: 991px) {
   .slide {
     margin-bottom: 0px;
