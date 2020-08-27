@@ -4450,7 +4450,7 @@ blockquote {
 
 .our-story-title {
   position: static;
-  margin-top: 56px;
+  margin-top: 21px;
   margin-bottom: 0px;
   font-family: Georgia, Times, 'Times New Roman', serif;
   color: #2fb34b;
@@ -6108,6 +6108,25 @@ blockquote {
   height: 100%;
 }
 
+label.registration {
+  display: inline;
+}
+
+.registration-input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.registration-checkbox {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.registration-submit {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: solid 1px black;
+}
 @media (max-width: 991px) {
   .slide {
     margin-bottom: 0px;
